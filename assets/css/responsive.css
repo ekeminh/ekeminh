@@ -1,13 +1,13 @@
 /*?------------- LAPTOP-M to MOBILE -------------?*/
 @media screen and (max-width: 64em) {
-    #card {
+    /* #card {
         height: 85%;
         min-height: 600px;
     }
     
     #info {
         padding: 2rem 1rem;
-    }
+    } */
 }
 
 /*?------------------- MOBILE -------------------?*/
@@ -20,6 +20,10 @@
       --smaller-font-size: .813rem;
       --tiny-font-size: .688rem;
     }
+
+    /* .container {
+        height: 95vh;
+    } */
 }
 
 /*?--------------- MOBILE-S (320px) ---------------?*/
