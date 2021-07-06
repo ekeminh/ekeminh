@@ -60,6 +60,11 @@ ul {
     list-style: none;
 }
 
+a {
+    text-decoration: none;
+    display: block;
+}
+
 img {
     max-width: 100%;
     height: auto;
