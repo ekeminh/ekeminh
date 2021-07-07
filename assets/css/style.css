@@ -175,6 +175,11 @@ img {
     width: 85%;
     border-radius: 3rem;
     background-color: #ccc; /* fallback color */
+    transition: all 0.2s ease;
+}
+
+.box:hover {
+    opacity: 0.85;
 }
 
 .box + .box {
